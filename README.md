@@ -16,6 +16,7 @@
 : These pros and cons apply 
 
 Original Code
+ 
  **Pros**
  - Easier to interpret with less variables
  - Executed as expected

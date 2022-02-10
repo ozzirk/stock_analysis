@@ -6,9 +6,9 @@
 **Results**
 :With much time and review, I found the error in my code!! I was missing a loop at the final step that printed the results. With this find, the refactored code worked significantly faster than the original, although hard to quantify per my original notes below stating that the runtimes were much higher than the actual elapsed time.  
 
-Unfortunately, I had a good deal of issues refactoring the code with errors that seemed to pop up in different places after the previous error was corrected. For that reason, I can't provide updated screenshots of the refactored code running successfully. 
+>Unfortunately, I had a good deal of issues refactoring the code with errors that seemed to pop up in different places after the previous error was corrected. For that reason, I can't provide updated screenshots of the refactored code running successfully. 
 
-: I have included the original runtimes of the base code. Hoping that we can isolate the issue so I can learn what I was missing and update this assignment. I also noticed that while the script ran almost instantaneously, the seconds displayed in these screenshots appear to show much more time than what actually elapsed.
+>I have included the original runtimes of the base code. Hoping that we can isolate the issue so I can learn what I was missing and update this assignment. I also noticed that while the script ran almost instantaneously, the seconds displayed in these screenshots appear to show much more time than what actually elapsed.
 
 ![2017](https://github.com/ozzirk/stock_analysis/blob/main/VBA_Challenge_2017.png?raw=true)
 ![2017 Refactored](https://github.com/ozzirk/stock_analysis/blob/main/Results.png?raw=true)
